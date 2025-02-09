@@ -13,5 +13,5 @@ If not then it will generate a error message.
 Otherwise it will the Print ticket generated Successfully.
 
 User can run the program in console also with the .jar file by follwing code:
-java -jar 
+java -jar HousieTicketGenerator.jar
 
